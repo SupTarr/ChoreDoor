@@ -20,6 +20,6 @@ Clone the project
 git clone https://github.com/SupTarr/ChoreDoor.git
 ```
 
-You need to install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) 
+You need to install [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 Open a HTML file and *right-click* on the editor and click on `Open with Live Server`.
