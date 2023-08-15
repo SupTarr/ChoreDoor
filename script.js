@@ -36,10 +36,10 @@ const isBot = (door) => {
 };
 
 const gameOver = (status) => {
-  if (status === 'win') {
-    startButton.innerHTML = 'You win! Play again?';
+  if (status === "win") {
+    startButton.innerHTML = "You win! Play again?";
   } else {
-    startButton.innerHTML = 'Game over! Play again?';
+    startButton.innerHTML = "Game over! Play again?";
   }
   currentlyPlaying = false;
 };
@@ -47,7 +47,7 @@ const gameOver = (status) => {
 const playDoor = (door) => {
   numClosedDoors--;
   if (numClosedDoors === 0) {
-    gameOver('win');
+    gameOver("win");
   } else if (isBot(door)) {
     gameOver();
   }
