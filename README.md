@@ -2,7 +2,7 @@
 
 ## About The Project
 
-This project is part of `Building Interactive JavaScript Websites` on `Codecademy`. and will I use your knowledge of `JavaScript` and the `DOM` to complete Chore Door, a single-page interactive game built with JavaScript.
+This project is part of `Building Interactive JavaScript Websites` on `Codecademy`. and will I use my knowledge of `JavaScript` and the `DOM` to complete Chore Door, a single-page interactive game built with JavaScript.
 
 ## Technologies
 
